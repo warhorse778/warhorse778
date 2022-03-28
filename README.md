@@ -11,7 +11,7 @@
 
 ##
 
-- 🌱 I’m obsessed learning new things.
+- 🌱 I’m obsessed with learning new things.
 - 🥅 2022 Goals: Contributing to Open Source project
 - ⚡ Fun fact: I love coding and gaming
 - 💻 I love building cool stuffs
