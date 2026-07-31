@@ -27,4 +27,4 @@
 
 </p>
 
-https://github-readme-stats-sigma-five.vercel.app/api?username=warhorse778&show_icons=true&theme=dark
+![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=warhorse778&show_icons=true&theme=dark)
