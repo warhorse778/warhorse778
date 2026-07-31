@@ -12,11 +12,11 @@
 
 ##
 
-- 🌱 I’m obsessed with learning new things.
-- 🥅 2022 Goals: Contributing to Open Source project
-- ⚡ Fun fact: I love coding and gaming
-- 💻 I love building cool stuffs
-- 📫 Reach me: michaell775533@gmail.com
+- 🔭 **Experience:** 5+ years in Systems Engineering, Infrastructure & Automation.
+- ⚙️ **Core Focus:** Building reliable hybrid environments, CI/CD pipelines, and scalable backend infrastructure.
+- 🛠️ **Tech Stack:** Linux | Bash/Python | Docker & K8s | Ansible | HashiCorp Nomad | CI/CD
+- 🎯 **Current Goals:** Deep-diving into platform engineering & system resilience.
+- 📫 **Connect:** michaell775533@gmail.com
 
 
 <p>
