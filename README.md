@@ -22,5 +22,3 @@
 
   <img height="150em" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=warhorse778&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true" />
 </p>
-
-![My GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=warhorse778&show_icons=true&theme=dark)
